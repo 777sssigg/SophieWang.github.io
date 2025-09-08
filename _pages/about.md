@@ -12,9 +12,7 @@ HI THERE ! I'm Yan Wang, you can call me Sophie. I am currently a third year und
 My research intersets include **automatic speech recognition** **(ASR)**,**speech emotion recognition and analysis**, **multimodal AI**, **reinforcement learning and image processing**. 
 
 Recently, I'm focusing on:
-
 (1) Attention-based methods for large vocabulary speech recognition
-
 (2) Application of deep learning models in RADAR
 
 # 🔥 News
